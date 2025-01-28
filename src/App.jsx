@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
-import CategoryList from "./CategoryList";
-import ProductList from "./ProductList";
+import CategoryList from "./categoryList";
+import ProductList from "./productList";
 
 import categories from "./fake-data/all-categories"; 
 import products from "./fake-data/all-products"; 
