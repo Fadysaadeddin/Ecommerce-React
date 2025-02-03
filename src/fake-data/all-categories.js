@@ -4,4 +4,3 @@ export default [
   "FAKE: men's clothing",
   "FAKE: women's clothing",
 ];
-
